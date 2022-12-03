@@ -1,0 +1,3 @@
+interface Biscuitable {
+    fun giveBiscuit()
+}
